@@ -6,7 +6,7 @@ function CartOverview() {
         <span >23 - pizzas</span>
         <span >  = $23.45</span>
       </p>
-      <Link to="/cart" className='text-red-500'> OPEN CART ---> </Link>
+      <Link to="/cart" className='text-red-500'> OPEN CART --- </Link>
     </div>
   );
 }
